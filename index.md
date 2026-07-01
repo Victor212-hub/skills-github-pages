@@ -1,3 +1,5 @@
----
-title: Welcome to my blog!
----
+#i love git
+
+#but, spotify is king
+
+
